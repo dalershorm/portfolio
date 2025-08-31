@@ -665,7 +665,7 @@ body {
 }
 
 main {
-  background-image: url(/assets/imgs/bg-main.jpg);
+  background-image: url(../imgs/bg-main.jpg);
   background-size: cover;
 }
 
