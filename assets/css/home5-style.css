@@ -864,3 +864,7 @@ p {
     margin-top: 15px;
   }
 }
+
+p.tech-list {
+  width: 256px;
+}
